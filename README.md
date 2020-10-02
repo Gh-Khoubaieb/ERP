@@ -1,13 +1,16 @@
 # My Admin 
 
-A demo application to showcase the main features of EasyAdmin, the new and simple admin generator for Symfony applications.
+A simple application for admin panel using EasyAdmin bundel, the new and simple admin generator for Symfony applications.
 
-## Screenshot
+<h2>Screenshot</h2>
 
-## Features
+<img src="https://i.imgur.com/a2Ys6Wg.png" />
+<img src="https://i.imgur.com/0rxlB8l.png"/>
+<img src="https://i.imgur.com/UqCn9Yu.png"/>
 
-    CRUD operations on Doctrine entities (create, edit, list, delete).
-    Full-text search, pagination and column sorting.
-    Fully responsive design with four break points.
-    Fast, simple and smart where appropriate.
 
+<h2 Featuers</h2>
+ * operations on Doctrine entities (create, edit, list, delete).
+    *Full-text search, pagination and column sorting.
+    *Fully responsive design with four break points.
+    *Fast, simple and smart where appropriate.
