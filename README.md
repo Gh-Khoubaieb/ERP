@@ -13,9 +13,9 @@ A simple application for admin panel using EasyAdmin bundel, the new and simple 
 
 <img src="https://i.imgur.com/NfGCx1E.png" />
 <img src="https://i.imgur.com/ycGIALh.png" />
-<img src="https://i.imgur.com/0rxlB8l.png"/>
-<img src="https://i.imgur.com/UqCn9Yu.png"/>
 <img src="https://i.imgur.com/a2Ys6Wg.png" />
+<img src="https://i.imgur.com/UqCn9Yu.png"/>
+
 
 
 
